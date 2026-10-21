@@ -1,0 +1,25 @@
+{
+  "lives": [
+    {
+      "name": "国内直播源(央视/卫视/地方)",
+      "url": "https://cdn.jsdelivr.net/gh/ybarbie8023/cn-live-tv@main/live.m3u",
+      "epg": "",
+      "logo": ""
+    }
+  ],
+  "live": [
+    {
+      "name": "国内直播源(央视/卫视/地方)",
+      "url": "https://cdn.jsdelivr.net/gh/ybarbie8023/cn-live-tv@main/live.m3u",
+      "epg": "",
+      "logo": ""
+    }
+  ],
+  "urls": [],
+  "spider": "",
+  "wall": {},
+  "parse": "",
+  "jk": "",
+  "flags": {},
+  "pic": ""
+}
