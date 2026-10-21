@@ -1,0 +1,39 @@
+{
+  "sites": [],
+  "lives": [
+    {
+      "name": "线路1(fastly)",
+      "url": "https://fastly.jsdelivr.net/gh/ybarbie8023/cn-live-tv@main/stable.m3u",
+      "epg": "",
+      "logo": ""
+    },
+    {
+      "name": "线路2(gcore)",
+      "url": "https://gcore.jsdelivr.net/gh/ybarbie8023/cn-live-tv@main/stable.m3u",
+      "epg": "",
+      "logo": ""
+    },
+    {
+      "name": "线路3(onms国内)",
+      "url": "https://jsd.onmicrosoft.cn/gh/ybarbie8023/cn-live-tv@main/stable.m3u",
+      "epg": "",
+      "logo": ""
+    }
+  ],
+  "live": [
+    {
+      "name": "线路1(fastly)",
+      "url": "https://fastly.jsdelivr.net/gh/ybarbie8023/cn-live-tv@main/stable.m3u",
+      "epg": "",
+      "logo": ""
+    }
+  ],
+  "urls": [],
+  "spider": "",
+  "wall": "",
+  "parse": [],
+  "jk": "",
+  "flags": {},
+  "rules": [],
+  "ads": []
+}
